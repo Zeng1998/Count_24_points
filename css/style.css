@@ -1,0 +1,39 @@
+#result{
+    box-sizing: border-box;
+    width:200px;
+    height:200px;
+    background: radial-gradient(circle, yellow, red);
+    margin:20px 600px;
+    font-size:100px;
+}
+.to{
+    box-sizing: border-box;
+    width:100px;
+    height:100px;
+    background: radial-gradient(circle, white, purple);
+    float:left;
+    font-size:40px;
+    padding:30px 35px;
+    display:inline-block;
+}
+#shizi{
+    width:1000px;
+    height:80px;
+    margin-left:540px;
+    margin-top:40px;
+}
+#shuzi{
+    width:1000px;
+    height:80px;
+    margin-left:480px;
+    margin-top:60px;
+}
+#yunsuanfu{
+    width:1000px;
+    height:80px;
+    margin-left:480px;
+    margin-top:40px;
+}
+.yunsuan{
+
+}
