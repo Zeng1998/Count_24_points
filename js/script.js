@@ -13,6 +13,7 @@ $(function () {
         $(tid).text(num[i-11]);
     }
     $("#result").click(function () {
+        alert("??");
         for(var i=11;i<15;i++){
             var tid="#"+i;
             $(tid).text(num[i-11]);
